@@ -4,6 +4,10 @@
   margin: 4%;
   margin-bottom: 2%;
   text-align: center;
+  font-family: "Tilt Prism", cursive;
+  color: white;
+  background-color: black;
+  line-height: 1.5;
 }
 
 #webpageSubtitle {

@@ -1,1 +1,32 @@
 /* Write your CSS here! */
+
+#webpageTitle {
+  margin: 4%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+#webpageSubtitle {
+  margin-bottom: 3%;
+  text-align: center;
+}
+
+#goofDefinition {
+  display: block;
+  text-align: center;
+}
+
+.card {
+  width: 65%;
+  margin: 0 auto;
+}
+
+.movieImg {
+  width: 25%;
+}
+
+p {
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+  margin-top: 1%;
+}
